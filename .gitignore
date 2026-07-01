@@ -1,0 +1,8 @@
+.env
+data/raw/
+src/data/raw/
+src/data/
+data/youtube.db
+__pycache__/
+*.pyc
+venv/
